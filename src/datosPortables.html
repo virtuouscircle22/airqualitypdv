@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/series-label.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/modules/export-data.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+    <style>
+        #container {
+            min-width: 310px;
+            max-width: 1200px;
+            height: 400px;
+            margin: 0 auto
+        }
+    </style>
+    <title>AirQduino</title>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+        <a class="navbar-brand" href="#">Datos del dispositivo portable</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor03" aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+    </nav>
+<div id="container" style="min-width: 310px; height: 600px"></div>
+<script type="text/javascript">
+
+    $(window).on('load', evt => {
+        evt.preventDefault();
+        //fetch('http://localhost:3000/tasks', {
+        fetch('https://airqualitypdv.herokuapp.com/tasks/P', {
+            method: 'GET',
+            headers: { 'Content-Type': 'application/json' }
+        }).then(resp => resp.json())
+        .then(datos => {
+            fecha = new Array()
+            co2 = new Array()
+            no = new Array()
+
+            for (let i = 0; i < datos.length; i++) {
+                fecha[i] = datos[i].date
+                co2[i] = datos[i].CO2
+                no[i] = datos[i].NO
+            }
+
+            Highcharts.chart('container', {
+                title: {
+                    text: 'Datos Calidad del Aire'
+                },
+                subtitle: {
+                    text: 'NodeMCU'
+                },
+                xAxis: {
+                    title: {
+                        text: 'Fecha'
+                    },
+                    type: 'datetime',
+                    categories: fecha
+                },
+                yAxis: {
+                    title: {
+                        text: 'Concentration (ppm)'
+                    }
+                },
+                legend: {
+                    layout: 'vertical',
+                    align: 'right',
+                    verticalAlign: 'middle'
+                },
+                plotOptions: {
+                    series: {
+                        label: {
+                            connectorAllowed: false
+                        }
+                    }
+                },
+                series: [{
+                    name: 'CO2',
+                    data: co2
+                }, {
+                    name: 'NO',
+                    data: no 
+                }],
+                responsive: {
+                    rules: [{
+                        condition: {
+                            maxWidth: 500
+                        },
+                        chartOptions: {
+                            legend: {
+                                layout: 'horizontal',
+                                align: 'center',
+                                verticalAlign: 'bottom'
+                            }
+                        }
+                    }]
+                }
+            });
+        })
+        .catch(err => console.log(err))
+    })
+</script>
+<a href="/" class="btn btn-success">Inicio</a>
+</body>
+</html>

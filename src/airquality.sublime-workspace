@@ -1,0 +1,1103 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"I",
+				"IndexRoutes"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"cons",
+				"const"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"co",
+				"connect"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"send",
+				"send_get"
+			],
+			[
+				"ti",
+				"tipoDonacion"
+			],
+			[
+				"d",
+				"Donantes2"
+			],
+			[
+				"D",
+				"Donantes2"
+			],
+			[
+				"loc",
+				"localizacion"
+			],
+			[
+				"date",
+				"Date"
+			],
+			[
+				"get",
+				"getFullYear"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"yea",
+				"yearSix"
+			],
+			[
+				"year",
+				"yearNow"
+			],
+			[
+				"por",
+				"porc"
+			],
+			[
+				"a",
+				"aggregate"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"ses",
+				"session_destroy"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"coll",
+				"collection"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"set",
+				"setcookie"
+			],
+			[
+				"n",
+				"nAl"
+			],
+			[
+				"nu",
+				"numero"
+			],
+			[
+				"gen",
+				"genEmpleado"
+			],
+			[
+				"col",
+				"collection"
+			],
+			[
+				"ge",
+				"geo_rlo"
+			],
+			[
+				"geo",
+				"geo_rla"
+			],
+			[
+				"coo",
+				"coor2"
+			],
+			[
+				"coor",
+				"coordenadas"
+			],
+			[
+				"t",
+				"typeKey"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"ech",
+				"echoPage"
+			],
+			[
+				"f",
+				"fun\tfunction …"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"asir",
+				"asir2"
+			],
+			[
+				"u",
+				"utf-8"
+			],
+			[
+				"as",
+				"asighoras"
+			],
+			[
+				"va",
+				"value2"
+			],
+			[
+				"val",
+				"value1"
+			],
+			[
+				"value",
+				"value1"
+			],
+			[
+				"asi",
+				"asir1"
+			],
+			[
+				"si",
+				"sis"
+			],
+			[
+				"dia",
+				"dias"
+			],
+			[
+				"ran",
+				"randrange"
+			],
+			[
+				"de",
+				"def\tFunction"
+			],
+			[
+				"rand",
+				"randrange"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"valu",
+				"value1"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"el",
+				"elemMatch"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"mt",
+				"mt_rand"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"fecha",
+				"fecha2"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"alu",
+				"alumnos"
+			],
+			[
+				"insert",
+				"insertMany"
+			],
+			[
+				"A",
+				"Alumnos"
+			],
+			[
+				"sen",
+				"senTemp"
+			],
+			[
+				"com",
+				"command"
+			],
+			[
+				"int",
+				"interrup"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"da",
+				"datos-cliente"
+			],
+			[
+				"dato",
+				"datos-emisor"
+			],
+			[
+				"P",
+				"pvp"
+			],
+			[
+				"suel",
+				"sueldo"
+			],
+			[
+				"ins",
+				"insultos"
+			],
+			[
+				"v_ca",
+				"v_cabecera"
+			],
+			[
+				"tra",
+				"transfers"
+			],
+			[
+				"player",
+				"players_id"
+			],
+			[
+				"pl",
+				"players"
+			],
+			[
+				"pla",
+				"players_id"
+			],
+			[
+				"team",
+				"team_id"
+			],
+			[
+				"des",
+				"desencrypt"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"form",
+				"formulario"
+			],
+			[
+				"che",
+				"check"
+			],
+			[
+				"es",
+				"escribir"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"onke",
+				"onkeypress\tAttr"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"ma",
+				"maxlength\tAttr"
+			],
+			[
+				"auto",
+				"autofocus\tAttr"
+			],
+			[
+				"m",
+				"msec"
+			],
+			[
+				"ruta",
+				"ruta"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"l",
+				"lang\tAttr"
+			],
+			[
+				"onm",
+				"onmouseover\tAttr"
+			],
+			[
+				"onmo",
+				"onmouseout\tAttr"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"onu",
+				"onunload\tAttr"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"var",
+				"variable1"
+			],
+			[
+				"Var",
+				"variable1"
+			],
+			[
+				"V",
+				"variable2"
+			],
+			[
+				"Va",
+				"variable1"
+			],
+			[
+				"M",
+				"multiplicación"
+			],
+			[
+				"num",
+				"num2"
+			],
+			[
+				"sr",
+				"src_ip"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"boto",
+				"boton"
+			],
+			[
+				"dr",
+				"dropdown"
+			],
+			[
+				"Ja",
+				"JavaScript"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"borde",
+				"border\tproperty"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"conte",
+				"content\tproperty"
+			],
+			[
+				"padi",
+				"padding\tproperty"
+			],
+			[
+				"al",
+				"align-content\tproperty"
+			],
+			[
+				"teal",
+				"text-align\tproperty"
+			],
+			[
+				"pa",
+				"packet_number"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"ser",
+				"SERVER"
+			],
+			[
+				"cone",
+				"connect"
+			],
+			[
+				"ip",
+				"ipServer"
+			],
+			[
+				"clien",
+				"client"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "database.js",
+			"settings":
+			{
+				"buffer_size": 397,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1528,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "routes/index.routes.js",
+			"settings":
+			{
+				"buffer_size": 313,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "routes/inserts.routes.js",
+			"settings":
+			{
+				"buffer_size": 3066,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "datosFijos.html",
+			"settings":
+			{
+				"buffer_size": 4442,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "datosPortables.html",
+			"settings":
+			{
+				"buffer_size": 4441,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 524,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 193.0,
+		"history":
+		[
+			"toggle_terminus_panel",
+			"Terminus",
+			"Terminus: Open Default Shell in Tab",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"toggle_terminus_panel",
+			"Terminus: Open Default Shell in Tab"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Javier/Proyecto calidad del aire/Proyecto2.0/Heroku",
+		"/D/Javier/Proyecto calidad del aire/Proyecto2.0/Heroku/src",
+		"/D/Javier/Proyecto calidad del aire/Proyecto2.0/Heroku/src/routes"
+	],
+	"file_history":
+	[
+		"/C/Users/javie/Desktop/Jesus/NodeJS/package.json",
+		"/D/Javier/Proyecto calidad del aire/Proyecto2.0/Heroku/src/routes/tasks.routes.js",
+		"/D/Javier/Proyecto calidad del aire/Proyecto2.0/Heroku/src/routes/tasksF.routes.js",
+		"/D/Javier/Proyecto calidad del aire/Proyecto2.0/Heroku/src/datosFijos.html",
+		"/D/Javier/Proyecto calidad del aire/Proyecto2.0/Heroku/src/datosPortables.html",
+		"/D/Javier/Proyecto calidad del aire/Proyecto2.0/Heroku/src/routes/inserts.routes.js",
+		"/D/Javier/Proyecto calidad del aire/Proyecto2.0/Heroku/src/routes/tasksP.routes.js",
+		"/D/Javier/Proyecto calidad del aire/Proyecto2.0/Heroku/src/routes/index.routes.js",
+		"/D/Javier/Proyecto calidad del aire/Proyecto2.0/Heroku/src/routes/fijos.routes.js",
+		"/D/Javier/Proyecto calidad del aire/Proyecto2.0/Heroku/src/routes/portables.routes.js",
+		"/D/Javier/Proyecto calidad del aire/Proyecto2.0/Heroku/src/index.ejs",
+		"/D/Javier/Proyecto calidad del aire/Proyecto2.0/Heroku/src/_header.ejs",
+		"/D/Javier/Proyecto calidad del aire/Proyecto2.0/Heroku/src/_footer.ejs",
+		"/D/Javier/Proyecto calidad del aire/Proyecto2.0/Heroku/src/2datos.html",
+		"/D/Javier/Proyecto calidad del aire/Proyecto2.0/MongoAtlas/Usuarios.txt",
+		"/C/Users/javie/Desktop/a.json",
+		"/D/Javier/Code/PagosSpotify/src/routes/index.js",
+		"/D/Javier/Code/PagosSpotify/src/models/task.js",
+		"/D/Javier/Code/PagosSpotify/src/views/index.ejs",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/1/FH/3ºEVA/Actividades/arduino/practica4/LCD_temp/LCD_temp.ino",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/1/FH/3ºEVA/Actividades/arduino/practica5/boton/boton.ino",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/1/FH/3ºEVA/Actividades/arduino/practica4a/practica4a.ino",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/1/FH/3ºEVA/Actividades/arduino/practica6/practica6.ino",
+		"/D/Javier/Proyecto calidad del aire/Arduino/portable_AirQduino/portable_AirQduino.ino",
+		"/C/Users/javie/Desktop/Minecraft server/ops.json",
+		"/D/Javier/Code/PagosSpotify/package.json",
+		"/D/Javier/Code/Telegram/SecHackBot/ShS.py",
+		"/D/Javier/Code/Telegram/SecHackBot/examples/echobot.py",
+		"/D/Javier/Code/Telegram/SecHackBot/welcomebot-master/bot.py",
+		"/D/Javier/Code/Telegram/SecHackBot/bot.py",
+		"/D/Javier/Code/Telegram/SecHackBot/examples/timerbot.py",
+		"/D/Javier/Code/Telegram/python-telegram-bot/seco.py",
+		"/D/Javier/Code/Telegram/SecHackBot/setup.py",
+		"/D/Javier/Code/PagosSpotify/src/app.js",
+		"/D/Javier/Code/PagosSpotify/src/models/task_donantes.js",
+		"/C/Users/javie/Desktop/Proyecto2.0/Heroku/src/datos.html",
+		"/D/Javier/Proyecto calidad del aire/Arduino/spain_AirQduino/spain_AirQduino.ino",
+		"/C/Users/javie/Desktop/Proyecto2.0/Heroku/src/routes/index.routes.js",
+		"/C/Users/javie/Desktop/Proyecto2.0/Heroku/src/routes/tasks.routes.js",
+		"/C/Users/javie/Desktop/Proyecto2.0/Heroku/src/server.js",
+		"/C/Users/javie/Desktop/Proyecto2.0/Heroku/src/routes/inserts.routes.js",
+		"/C/Users/javie/Desktop/Proyecto2.0/Heroku/src/database.js",
+		"/C/Users/javie/Desktop/OneForAll-master/oneforall/oneforall.py",
+		"/D/Javier/Proyecto calidad del aire/Heroku/src/server.js",
+		"/D/Javier/Proyecto calidad del aire/Heroku/src/datos.html",
+		"/D/Javier/Proyecto calidad del aire/Heroku/src/onair.html",
+		"/D/Javier/Proyecto calidad del aire/Heroku/src/routes/onlife.routes.js",
+		"/D/Javier/Proyecto calidad del aire/Heroku/src/routes/index.routes.js",
+		"/D/Javier/Proyecto calidad del aire/Arduino/greece_AirQduino/greece_AirQduino.ino",
+		"/D/Javier/Proyecto calidad del aire/Heroku/src/routes/inserts.routes.js",
+		"/D/Javier/Proyecto calidad del aire/Heroku/src/routes/tasks.routes.js",
+		"/C/Users/javie/Desktop/New folder/index.js",
+		"/C/Users/javie/Desktop/lista.py",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/2/GBD/2 EVA/Proyecto/src/views/spain.ejs",
+		"/C/Users/javie/Desktop/Compartir/prueba.html",
+		"/D/Javier/Proyecto calidad del aire/Arduino/AirQduino/AirQduino.ino",
+		"/D/Javier/Proyecto calidad del aire/Arduino/AirDuinoMQ7/AirDuinoMQ7.ino",
+		"/C/Users/javie/Desktop/Recursos/Airduino/Airduino.ino",
+		"/D/Javier/Proyecto calidad del aire/Heroku/src/routes/onair.routes.js",
+		"/D/Javier/Proyecto calidad del aire/Heroku/src/routes/datos.routes.js",
+		"/D/Javier/Proyecto calidad del aire/Heroku/src/database.js",
+		"/D/Javier/Proyecto calidad del aire/Heroku/src/stile.css",
+		"/D/Javier/Proyecto calidad del aire/Heroku/src/view/onair.html",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/1/Recursos_compartidos/proyectoaqi/src/routes/index.routes.js",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/1/Recursos_compartidos/proyectoaqi/dist/routes/index.routes.js",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/1/Recursos_compartidos/proyectoaqi/directorio.js",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/1/Recursos_compartidos/proyectoaqi/dist/server.js",
+		"/D/Javier/Proyecto calidad del aire/Heroku/src/routes/life.routes.js",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/2/GBD/2 EVA/RestApi/src/routes/tasks.routes.js",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/2/GBD/2 EVA/RestApi/src/routes/inserts.routes.js",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/2/GBD/2 EVA/RestApi/src/routes/index.routes.js",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/2/GBD/2 EVA/RestApi/src/database.js",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/2/GBD/2 EVA/RestApi/src/server.js",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/2/GBD/2 EVA/RestApi/src/index.js",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/2/GBD/2 EVA/RestApi/src/routes/insertTemp.routes.js",
+		"/D/Javier/Proyecto calidad del aire/Arduino/AirDuino/AirDuino.ino",
+		"/E/Dragon Ball Z Kakarot.iso",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/2/GBD/datos/datos14.js",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/2/GBD/generadorDonantes.py",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/2/GBD/datos/datos13.js",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/2/GBD/datos/datos9.js",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/2/GBD/datos/datos11.js",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/2/GBD/datos2.js",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/2/GBD/export.js",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/2/GBD/Vega Molina Francisco Javier/Proyecto 1EVA/export.json",
+		"/C/Users/javie/Desktop/airduinopdv/src/routes/inserts.routes.js",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/2/GBD/2 EVA/RestApi/src/routes/insertsG.routes.js",
+		"/C/Users/javie/Desktop/NodeAdolfo2/NodeAdolfo2.ino",
+		"/D/Javier/Proyecto calidad del aire/ArduinoV2/ArduinoV2.ino",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/1/LM/Proyecto/JavaScript/imagenes.js",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/1/LM/Proyecto/index.html",
+		"/D/Javier/Proyecto calidad del aire/nodejsV2 - Copy/src/routes/inserts.routes.js",
+		"/D/Javier/Proyecto calidad del aire/nodejs/server.js",
+		"/D/Javier/Proyecto calidad del aire/Arduino/AirDuino/AirDuinoNano33.ino",
+		"/D/Javier/Proyecto calidad del aire/AdolfoNode/index.js",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/2/GBD/2 EVA/RestApi/package.json",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/2/GBD/2 EVA/RestApi/package-lock.json",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/2/GBD/2 EVA/RestApi/.babelrc",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/2/GBD/2 EVA/RestApi/dists/index.js",
+		"/C/Users/javie/Desktop/PHP/Comando/23ComandoPing.php",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/2/GBD/2 EVA/RestApi/package.sublime-project",
+		"/C/wamp64/www/Sesiones/ej4_Sesiones.php",
+		"/E/ejercicio4.php",
+		"/C/Users/javie/Documents/Arduino/prueba.ino/prueba.ino",
+		"/C/wamp64/www/Sesiones/ejMultiTiempo.php",
+		"/D/Javier/Proyecto calidad del aire/nodejs/prueba.js",
+		"/C/Users/javie/Desktop/orejas2.obj",
+		"/C/Users/javie/Desktop/a.html",
+		"/C/Users/javie/Documents/Arduino/prueba.ino/prueba.ino.ino",
+		"/C/Users/javie/Documents/Arduino/libraries/ArduinoHttpClient/examples/SimpleWebSocket/arduino_secrets.h",
+		"/E/PeticionesGET.ino",
+		"/C/Users/javie/Desktop/a/index.js",
+		"/C/Users/javie/Desktop/a.py",
+		"/E/placa.txt",
+		"/C/Users/javie/Desktop/b/index.js",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/2/GBD/apuntes/Primera EVA/26-09-2019/prueba AND y OR together.js",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/2/GBD/apuntes/Primera EVA/26-11-2019/arrayObjetos.js",
+		"/D/Javier/FP/Administracion_de_Sistemas_y_Redes/2/GBD/Proyecto 1EVA/peticiones.js",
+		"//192.168.4.100/Alumnos/Entregas_EVA01_2ASIR/Vega Molina Francisco Javier/Proyecto 1EVA/peticiones.js",
+		"/C/Users/javie/Desktop/export.js",
+		"/C/Users/javie/Desktop/muestra.js",
+		"/C/Users/javie/Desktop/programita.apk",
+		"/C/Users/javie/Desktop/httpFlood.py",
+		"//192.168.4.100/Alumnos/Entregas_EVA01_2ASIR/Vega Molina Francisco Javier/1 EVA/apuntes.js",
+		"//192.168.4.100/Alumnos/Entregas_EVA01_2ASIR/Vega Molina Francisco Javier/1 EVA/and_or.js",
+		"//192.168.4.100/Alumnos/Entregas_EVA01_2ASIR/Vega Molina Francisco Javier/1 EVA/20190920-filtros.js",
+		"//192.168.4.100/Alumnos/Entregas_EVA01_2ASIR/Vega Molina Francisco Javier/1 EVA/20190924-variadores.js",
+		"//192.168.4.100/Alumnos/Entregas_EVA01_2ASIR/Vega Molina Francisco Javier/1 EVA/20190920-empleados.js"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "database.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								233,
+								233
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1528,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								678,
+								635
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "routes/index.routes.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								279,
+								279
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "routes/inserts.routes.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3066,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "datosFijos.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4442,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								978,
+								978
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "datosPortables.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1596,
+								1596
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 65.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/chrome.sublime-build",
+	"project": "airquality.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Javier\\FP\\Administracion_de_Sistemas_y_Redes\\2\\GBD\\2 EVA\\Proyecto\\proyecto.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
