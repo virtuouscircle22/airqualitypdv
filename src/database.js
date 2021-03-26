@@ -2,7 +2,7 @@ import MongoClient from 'mongodb';
 
 export async function connect() {
 	try{
-		const client = await MongoClient.connect('mongodb+srv://javier:Q3gPSTEmE5yMw5pV@cluster0-mms5n.mongodb.net/DatosCalidadAire?retryWrites=true&w=majority', {
+		const client = await MongoClient.connect('****************', {
 			useUnifiedTopology: true
 		})
 		const db = client.db('DatosCalidadAire')
